@@ -2,7 +2,7 @@
 Python module to compare images through average hashing algorithm.
 
 ## Requirements
-```sh
+```
 pip install pillow imagehash
 ```
 
@@ -16,4 +16,6 @@ To run the example usage:
 This script will print out the duplicate image paths found in the directory compared to the target image.
 
 ## PIC Module
+
+W.I.P
 
