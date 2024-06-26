@@ -6,7 +6,7 @@ from PIC import hash_and_compare_images, validate_image_folder, validate_target_
 
 # Define the folder to saved images
 IMAGE_FOLDER = 'Images/'
-TARGET_IMG = "target_img.jpg"
+TARGET_IMG = "target.png"
 
 
 def main():
