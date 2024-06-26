@@ -2,7 +2,7 @@
 Python module to compare images through average hashing algorithm.
 
 ## Requirements
-```
+```sh
 pip install pillow imagehash
 ```
 
